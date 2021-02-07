@@ -52,7 +52,7 @@ time, mark, audio, video {
     list-style: none;
     display: inline-block;
     margin: 0 20px;
-    
+    border-radius:30px;
   }
 
 /* コピー部分 終わり */
@@ -236,7 +236,6 @@ table {
  }
 
 th {
-    border-radius: px;
     font-family: Dotum;
     font-size: 18px;
     font-weight: normal;
@@ -290,14 +289,12 @@ h1.header {
     border-bottom: none;
     margin-top: 0;
 }
-*/
 
 
 h1.header, a.header, a.name, header a{
     color: #fff;
 }
 
-/*
 a.header {
     text-decoration: underline;
 }
