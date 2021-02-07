@@ -236,7 +236,7 @@ table {
  }
 
 th {
-    border-radius: 10px;
+    border-radius: px;
     font-family: Dotum;
     font-size: 18px;
     font-weight: normal;
@@ -290,12 +290,14 @@ h1.header {
     border-bottom: none;
     margin-top: 0;
 }
+*/
 
 
 h1.header, a.header, a.name, header a{
     color: #fff;
 }
 
+/*
 a.header {
     text-decoration: underline;
 }
